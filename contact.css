@@ -1,0 +1,19 @@
+body
+{
+background-color:#aabb88;
+}
+#margin{
+margin-top:50px;
+margin-right:60px;
+margin-bottom:50px;
+margin-left:80px;
+}
+.head
+{
+margin:25px 80px;
+}
+div img
+{
+width:250;
+height:200;
+}
