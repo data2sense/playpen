@@ -1,7 +1,3 @@
-body
-{
-background-color:#aabb88;
-}
 #margin{
 margin-top:50px;
 margin-right:60px;
@@ -14,6 +10,27 @@ margin:25px 80px;
 }
 div img
 {
-width:250;
-height:200;
+width:1335;
+height:180;
+}
+#size{
+font-size:22;
+}
+.right
+{
+float:right;
+width:40%;
+}
+.left
+{
+float:left;
+width:60%;
+}
+.form
+{
+border:2;
+font-size:22;
+}
+#quick{
+font-size:30;
 }
