@@ -1,0 +1,31 @@
+#margin{
+margin-top:50px;
+margin-right:60px;
+margin-bottom:50px;
+margin-left:80px;
+}
+.head
+{
+margin:25px 80px;
+}
+div img
+{
+width:1335;
+height:180;
+}
+#size{
+font-size:22;
+}
+.right
+{
+float:right;
+width:40%;
+}
+.left
+{
+float:left;
+width:60%;
+}
+span{
+font-size:35;
+}
